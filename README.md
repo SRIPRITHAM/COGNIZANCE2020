@@ -33,5 +33,14 @@ return 0
 end define 
 
 The above pseudocode sample computes a logical and function
+# GUIDE LINES FOR WRITING PSEUDOCODE
+
+* write one statement per line
+
+* capitalize initial keyword
+
+* inded to hierarchy
+
+* end multiline structure
 
 
