@@ -42,6 +42,15 @@ GUIDE LINES FOR WRITING PSEUDOCODE
 
 * inded to hierarchy
 
-* end multiline structure
+* end multiline structurecommon keywords used in pseudocode
+
+//: This keyword used to represent a comment
+
+Begin,end: begin is the first statement and end is the last statement.
+
+input,get,read : the keyword is used to inputting data.
+
+
+
 
 
