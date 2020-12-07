@@ -43,4 +43,11 @@ The above pseudocode sample computes a logical and function
 
 * end multiline structure
 
+ common keywords used in pseudocode
+
+//: This keyword used to represent a comment
+
+Begin,end: begin is the first statement and end is the last statement.
+
+input,get,read : the keyword is used to inputting data.
 
