@@ -51,3 +51,6 @@ Begin,end: begin is the first statement and end is the last statement.
 
 input,get,read : the keyword is used to inputting data.
 
+The keywords should be used
+
+keywords used are to be include do while...enddo;do until... enddo; case...end case ;if ....endif;call...with(parameters);call;return...;return;when;always use scope terminators for loops and iteration.
