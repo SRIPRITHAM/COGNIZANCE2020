@@ -54,3 +54,30 @@ input,get,read : the keyword is used to inputting data.
 The keywords should be used
 
 keywords used are to be include do while...enddo;do until... enddo; case...end case ;if ....endif;call...with(parameters);call;return...;return;when;always use scope terminators for loops and iteration.
+
+
+steps to follow is 
+
+program start
+
+initialise variable a=0
+
+initialise variable b
+
+start infinite loop
+
+call function seg convert withinput a
+
+seg convert returns value b
+
+output b to led port
+
+increment a
+
+if a>g
+
+a=0
+
+call function delay for 500ms 
+
+end infinite loop
