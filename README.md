@@ -81,3 +81,30 @@ a=0
 call function delay for 500ms 
 
 end infinite loop
+steps to follow is 
+
+program start
+
+initialise variable a=0
+
+initialise variable b
+
+start infinite loop
+
+call function seg convert withinput a
+
+seg convert returns value b
+
+output b to led port
+
+increment a
+
+if a>g
+
+a=0
+
+call function delay for 500ms 
+
+end infinite loop
+
+
